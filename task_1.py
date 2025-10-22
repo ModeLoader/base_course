@@ -1,6 +1,6 @@
-chislo = int(input())
+chislo = int(input("Введите целое число :" ))
 
-if chislo % 2 :
-    print(f"{chislo} четное")
+if chislo % 2 > 0:
+    print(f"{chislo} - нечетное")
 else :
-    print(f"{chislo} нечетное")
+    print(f"{chislo} - четное")
