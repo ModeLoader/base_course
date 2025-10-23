@@ -6,4 +6,4 @@ if chislo2 == 0 :
 elif chislo1 % chislo2 == 0:
     print(f"Деление числа {chislo1} на {chislo2} возможно и вот результат:{chislo1//chislo2} " )
 else:
-    print(f"Деление числа {chislo1} на {chislo2} невозможно и вот остаток:{chislo1%chislo2} " )10\
+    print(f"Деление числа {chislo1} на {chislo2} невозможно и вот остаток:{chislo1%chislo2} " )
